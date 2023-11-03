@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Mobile",
+		"price": 800,
+		"imageUrl": "/images/iphone.jpeg"
+	},
+	{
+		"id": 2,
+		"name": "Tv",
+		"price": 500,
+		"imageUrl": "/images/tv.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Laptop",
+		"price": 1200,
+		"imageUrl": "/images/laptop.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Car",
+		"price": 60000,
+		"imageUrl": "/images/car.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Shoes",
+		"price": 100,
+		"imageUrl": "/images/shoes.jpg"
+	}
+]
