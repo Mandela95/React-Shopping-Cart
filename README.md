@@ -8,6 +8,6 @@ live-server: https://musical-praline-88a901.netlify.app
 
 ![React-Shopping-Cart(cart)](https://raw.githubusercontent.com/Mandela95/React-Shopping-Cart/main/cartDetails.png)
 
-
 Mobile-Friendly:
+
 ![React-Shopping-Cart(cart)](https://raw.githubusercontent.com/Mandela95/React-Shopping-Cart/main/phone.jpeg)
